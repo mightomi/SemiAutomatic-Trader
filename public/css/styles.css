@@ -1,12 +1,12 @@
+
 body {
   background-color: rgb(255, 255, 255);
+ /* background-image: url('../img.jpg');*/
+ padding-right: 0.5em;
+ padding-left: 0.5em;
 }
 
-h1 {
-  font-family: Arial, Helvetica, Arial, sans-serif;
-	color:#4E443C;
-	font-variant: small-caps; text-transform: none; font-weight: 100; margin-bottom: 0;
-}
+
 
 p {
   /* padding: 30px; */
@@ -43,3 +43,134 @@ input[type=button] {
   border:0;
   box-shadow:0 0 4px 2px rgba(0,0,0,0.06);
 } */
+
+/*banner
+.hero-image
+{
+  background-image:url('../img.gif') ;
+  height: 200px;
+  background-position:right;
+  background-repeat: no-repeat;
+  background-size:280px;
+  position: relative;
+  border-radius: 10px;
+  padding-top: 2em;
+  background-color:#0080EF;
+
+}
+.hero-text
+{
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+  right: 10px;
+  color:white;
+  font-family:'Redressed', cursive; 
+  letter-spacing: -1 ;
+  text-shadow:2px 2px grey;
+}
+*/
+
+
+/*the nav bar
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:#D0EAE7;
+  border-radius: 5px;
+  font-family: 'Open Sans', sans-serif;;
+  
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color:black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  
+}
+
+li a:hover {
+  background-color: #80CEE1;
+}
+*/
+
+/*table editing 
+#table
+{
+  border-spacing: 1; 
+  border-collapse: collapse; 
+  background:white;
+  border-radius:6px;
+  overflow:hidden;
+  max-width:800px; 
+  width:100%;
+}
+
+ tr:nth-child(even) {
+  background-color:#D9E3DA;
+}
+tr:nth-child(odd)
+{
+  background-color: white;
+}
+table,th,td,tr
+{
+  border: 0px solid black;
+  text-align: center;
+}
+
+th,td,tr{
+  min-width: 144px;
+  height: 80px;
+}
+*/
+/*
+#pastOrder
+{
+   font-family: 'Open Sans', sans-serif;
+   border-radius: 5px;
+}
+th {
+  background-color: #77dd77;
+  color: white;
+  font-weight: 10px;
+  text-align: center;
+}
+
+.pastorder
+{
+  color:#555e69 ;
+}
+*/
+
+
+/*
+#typeOfOrder
+{
+ font-family:'Open Sans', sans-serif ;
+}
+*/
+
+/*footer section 
+footer{
+  padding:100px;
+  background: linear-gradient(315deg, #f8ceec 0%, #a88beb 74%);
+  text-align: center;
+  border-radius: 6px;
+}
+.logo{
+
+font-family: 'Pacifico', cursive;
+text-transform: lowercase;
+font-size: 20px;
+
+}
+*/
