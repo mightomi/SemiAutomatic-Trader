@@ -43,8 +43,6 @@ input[type=button] {
   border:0;
   box-shadow:0 0 4px 2px rgba(0,0,0,0.06);
 } */
-
-/*banner
 .hero-image
 {
   background-image:url('../img.gif') ;
@@ -60,7 +58,7 @@ input[type=button] {
 }
 .hero-text
 {
-  position: absolute;
+  position: relative;
   bottom: 8px;
   left: 16px;
   right: 10px;
@@ -69,7 +67,7 @@ input[type=button] {
   letter-spacing: -1 ;
   text-shadow:2px 2px grey;
 }
-*/
+
 
 
 /*the nav bar
