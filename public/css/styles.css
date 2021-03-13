@@ -69,8 +69,6 @@ input[type=button] {
 }
 
 
-
-/*the nav bar
 ul {
   list-style-type: none;
   margin: 0;
@@ -98,7 +96,7 @@ li a {
 li a:hover {
   background-color: #80CEE1;
 }
-*/
+
 
 /*table editing 
 #table
@@ -157,13 +155,14 @@ th {
 }
 */
 
-/*footer section 
+
 footer{
   padding:100px;
   background: linear-gradient(315deg, #f8ceec 0%, #a88beb 74%);
   text-align: center;
   border-radius: 6px;
 }
+/*
 .logo{
 
 font-family: 'Pacifico', cursive;
@@ -172,3 +171,4 @@ font-size: 20px;
 
 }
 */
+
